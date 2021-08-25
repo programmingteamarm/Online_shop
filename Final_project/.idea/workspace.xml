@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ed7aba3-a667-427b-b1c9-7618b267e7e2" name="Default Changelist" comment="hy">
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/templates/core/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +36,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\Online_shop\Final_project\core\static\core" />
       <recent name="C:\Users\aregv\OneDrive\Desktop\Project\Final_project\core\templates\core" />
       <recent name="C:\Users\aregv\OneDrive\Desktop\Project\Final_project\core\static\core" />
       <recent name="C:\Users\aregv\OneDrive\Desktop\Project\Final_project\core\static" />
       <recent name="C:\Users\aregv\OneDrive\Desktop\Project\Final_project\core\static\core\css" />
-      <recent name="C:\Users\aregv\OneDrive\Desktop\Project\Final_project\core\templates" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
