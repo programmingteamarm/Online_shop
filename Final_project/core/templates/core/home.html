@@ -1,6 +1,31 @@
 {% extends 'core/base.html' %}
 {%block content%}
-<body class="main-layout ">
+    <h3>КАТАЛОГ ОБОРУДОВАНИЯ</h3>
 
-</body>
+
+<div class="todo-list">
+{% for category in category_list %}
+
+<div class="item-row">
+	 <div class="dropdown">
+    <button class="dropbtn">{{category.name}}
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Link 1</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+    </div>
+  </div>
+</div>
+	<div>
+	<a class="btn" style="color:black;background-color:white" href="#">Обновить</a>
+		</div>
+	<br>
+{% endfor %}
+		<div class="item-row">
+				<a href="{% url 'new_category' %}"><button class="btn btn-success" style="background-color:black" type="submit">+</button></a>
+		</div>
+</div>
+
 {% endblock %}
