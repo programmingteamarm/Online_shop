@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ed7aba3-a667-427b-b1c9-7618b267e7e2" name="Default Changelist" comment="added sth" />
+    <list default="true" id="4ed7aba3-a667-427b-b1c9-7618b267e7e2" name="Default Changelist" comment="added sth">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_25_2021_10_22_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_25_2021_10_22_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_25_2021_10_22_PM__Default_Changelist_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_25_2021_10_22_PM__Default_Changelist_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_26_2021_6_24_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_26_2021_6_24_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/static/core/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/core/static/core/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/static/core/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/account.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/blog-archive-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/blog-archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/blog-archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/blog-single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/brand.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/checkout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/guaranty.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/new_category.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/payment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/product-detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/wishlist.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +36,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -36,15 +62,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../django-learning/todo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aregv\OneDrive\Desktop\Online_shop\Final_project\core\static\core\css" />
       <recent name="C:\Users\aregv\OneDrive\Desktop\Online_shop\Final_project\core\templates\core" />
       <recent name="C:\Users\aregv\OneDrive\Desktop\Online_shop\Final_project\core\static\core" />
       <recent name="C:\Users\aregv\OneDrive\Desktop\Project\Final_project\core\templates\core" />
       <recent name="C:\Users\aregv\OneDrive\Desktop\Project\Final_project\core\static\core" />
-      <recent name="C:\Users\aregv\OneDrive\Desktop\Project\Final_project\core\static" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
