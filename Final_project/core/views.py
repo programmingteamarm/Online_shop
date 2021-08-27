@@ -5,7 +5,7 @@ from core.forms import CategoryForm
 
 def home(request):
     category = Category.objects.all()
-    return render(request, 'core/home.html', {'category_list': category})
+    return render(request, 'core/index.html', {'category_list': category})
 
 
 def about(request):

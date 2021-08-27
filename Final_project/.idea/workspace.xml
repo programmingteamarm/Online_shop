@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ed7aba3-a667-427b-b1c9-7618b267e7e2" name="Default Changelist" comment="hy">
+    <list default="true" id="4ed7aba3-a667-427b-b1c9-7618b267e7e2" name="Default Changelist" comment="added sth">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/templates/core/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629989674426</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added sth">
+      <created>1630038471123</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630038471123</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -99,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hy" />
-    <option name="LAST_COMMIT_MESSAGE" value="hy" />
+    <MESSAGE value="added sth" />
+    <option name="LAST_COMMIT_MESSAGE" value="added sth" />
   </component>
 </project>
