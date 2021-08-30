@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ed7aba3-a667-427b-b1c9-7618b267e7e2" name="Default Changelist" comment="added sth">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_25_2021_10_22_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_25_2021_10_22_PM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_25_2021_10_22_PM__Default_Changelist_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_25_2021_10_22_PM__Default_Changelist_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_26_2021_6_24_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_8_26_2021_6_24_PM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/static/core/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/core/static/core/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/static/core/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/account.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/blog-archive-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/blog-archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/templates/core/blog-archive.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/blog-single.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/brand.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/cart.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/checkout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/guaranty.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/new_category.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/payment.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/product-detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/product.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/templates/core/wishlist.html" beforeDir="false" />
-    </list>
+    <list default="true" id="4ed7aba3-a667-427b-b1c9-7618b267e7e2" name="Default Changelist" comment="added sth" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630052870620</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added sth">
+      <created>1630326154206</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1630326154206</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="UnknownFeatures">
